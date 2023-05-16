@@ -1,2 +1,2 @@
 # expense_calculator
-ReactJS
+ReactJS - Project under construction
